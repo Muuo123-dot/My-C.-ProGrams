@@ -1,12 +1,11 @@
-//PROGRAM TO CALCULATE COMPOUBD INTEREST
-//Name stephen Mambo.
+//PROGRAM TO CALCULATE COMPOUND INTEREST
 /*
-The prigram will ask the user to input the following:
+The program will ask the user to input the following:
 principle amount
 interest rate
 How the interst is compounded, i.e
 semi anually,annually or quarterly.
-It will calculate the compoujd interest  based on the formula A=p(1+r)^n
+It will calculate the compound interest  based on the formula A=p(1+r)^n
 */
 #include <stdio.h>
 #include <math.h>
